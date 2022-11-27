@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "blitz dev",
     "build": "blitz build",
-    "start": "blitz start -p 8080",
+    "start": "blitz start",
     "lint": "eslint --ignore-path .gitignore --ext .js,.ts,.tsx .",
     "prepare": "husky install",
     "format": "prettier --write ."
